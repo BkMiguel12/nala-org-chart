@@ -1,0 +1,18 @@
+.header{
+    align-items: center;
+    background-color: #fff;
+    display: flex;
+    justify-content: flex-start;
+    padding: 15px 50px;
+}
+
+.header img {
+    width: 80px;
+}
+
+.header .title{
+    color: #121f4b;
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 20px;
+}

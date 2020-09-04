@@ -1,0 +1,24 @@
+.org-chart{
+    margin-top: 40px
+}
+
+.org-chart .options-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.org-chart .options-container .budget{
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+}
+
+.org-chart .options-container .budget:first-of-type{
+    border-bottom: 2px solid #2930FF;
+    padding-bottom: 3px;
+}
+.org-chart .options-container .budget:last-of-type{
+    margin-top: 10px;
+}

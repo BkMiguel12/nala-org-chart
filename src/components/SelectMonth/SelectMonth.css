@@ -1,0 +1,16 @@
+.select-month{
+    text-align: center;
+}
+.select-month .title{
+    border-bottom: 2px solid #2930FF;
+    font-size: 20px;
+    margin: 0;
+    padding-bottom: 3px;
+}
+.select-month .select{
+    border-radius: 15px;
+    font-size: 20px;
+    margin-top: 10px;
+    outline: none;
+    padding: 5px 15px;
+}
